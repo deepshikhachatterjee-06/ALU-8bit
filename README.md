@@ -1,10 +1,11 @@
 8-Bit ALU Implementation on Basys3 FPGA.
-Overview  
+
+Overview: 
 This project builds an 8-bit Arithmetic Logic Unit (ALU) using Verilog HDL on the Basys3 FPGA board. The design supports arithmetic and logical operations. It showcases the entire FPGA design process, from simulation to hardware demonstration.  
 
-Features  
-Arithmetic Operations: Addition, Subtraction  
-Logical Operations: AND, OR, XOR, NOT, Left shift, Right shift, Equality check  
+Features:
+Arithmetic Operations: Addition, Subtraction.
+Logical Operations: AND, OR, XOR, NOT, Left shift, Right shift, Equality check.  
 
 Testbench Verification: This ensures all operations work correctly.  
 
